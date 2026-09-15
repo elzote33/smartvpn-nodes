@@ -9,19 +9,19 @@
       "id": "ca_1",
       "name": "Canadá (Recomendado)",
       "country": "CA",
-      "ovpn_url": "https://raw.githubusercontent.com/elzote33/nodos-smartvpn/main/canada1.ovpn"
+      "ovpn_url": "https://raw.githubusercontent.com/elzote33/smartvpn-nodes/main/canada1.ovpn"
     },
     {
       "id": "mx_1",
       "name": "México (Baja Latencia)",
       "country": "MX",
-      "ovpn_url": "https://raw.githubusercontent.com/elzote33/nodos-smartvpn/main/mexico1.ovpn"
+      "ovpn_url": "https://raw.githubusercontent.com/elzote33/smartvpn-nodes/main/mexico1.ovpn"
     },
     {
       "id": "jp_1",
       "name": "Japón (Respaldo)",
       "country": "JP",
-      "ovpn_url": "https://raw.githubusercontent.com/elzote33/nodos-smartvpn/main/japon1.ovpn"
+      "ovpn_url": "https://raw.githubusercontent.com/elzote33/smartvpn-nodes/main/japon1.ovpn"
     }
   ]
 }
